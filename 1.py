@@ -1,3 +1,5 @@
-string = "strssed"
-string = string[::-1]
-print(string)
+#coding=utf-8
+aaa = "パタトクカシーー"
+extract = aaa[::2]
+print(aaa)
+print(extract)
